@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on StockWatcher, FileManager, and WinInvalidFileMaker
+- 🔭 I’m currently working on StockWatcher, and WinInvalidFileMaker
 - 🌱 I’m currently learning **C++**
 - 📫 How to reach me: Read the contact section of  my [website](https://madebysid.me)
 
